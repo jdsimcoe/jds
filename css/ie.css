@@ -1,0 +1,15 @@
+.nav {
+	background: #f4f4f4 url('../img/nav-bg.jpg') repeat-x;
+}
+
+.action-plan .plan .plan-list li .num {
+	background: #95C436;
+}
+
+.module.closed {
+	background: #e0e0e0 url('../img/nav-bg.jpg') repeat-x;
+}
+
+.module.open {
+	background: #d0d0d0 url('../img/link-bg.jpg') repeat-x;
+}
